@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-box{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-color: gray;
+}

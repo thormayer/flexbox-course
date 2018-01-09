@@ -1,0 +1,25 @@
+.object-container{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border: 1px solid gray;
+}
+
+.content-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.image-box{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: gray;
+}
+
+h1{ font-size: 20px;}
+
+
+
+.footer-container{
+}
